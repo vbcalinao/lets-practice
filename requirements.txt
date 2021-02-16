@@ -1,3 +1,5 @@
 numpy
 pylibiio
 fs.sshfs
+add coffee.again
+no sugar.forever
